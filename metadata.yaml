@@ -1,0 +1,31 @@
+_repo: Virginia-s-Ranch-Neighbors_66974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: North, Grace May
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '41476'
+    url: http://www.gutenberg.org/2009/agents/41476
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/41818
+    - https://en.wikipedia.org/wiki/Grace_May_North
+description: ''
+gutenberg_issued: '2021-12-20'
+identifiers:
+  gutenberg: '66974'
+language: en
+pgterms:marc904: https://archive.org/details/virginiasranchne00nort
+pgterms:marc905: 20211101124048north
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :A. L. Burt Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Virginia's Ranch Neighbors
+url: http://www.gutenberg.org/ebooks/66974
