@@ -1,5 +1,8 @@
 _repo: Virginia-s-Ranch-Neighbors_66974
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66974-h/images/cover.jpg
 creator:
   author:
     agent_name: North, Grace May
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/41818
     - https://en.wikipedia.org/wiki/Grace_May_North
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66974#Virginia-s-Ranch-Neighbors
 gutenberg_issued: '2021-12-20'
 identifiers:
   gutenberg: '66974'
